@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @16sir
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+<!---
+16sir/16sir is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+---<hi,I'm @16sir
+I'm interested in hacking insta acc
+I'm currently learning hacking
+I'm looking to collaborate with insta acc hackers 
